@@ -30,6 +30,7 @@
 ## 🔥 Featured Projects
 - 🛡️ **[NodeJS App](https://github.com/marioportelag/nodejs-app)** – REST API with JWT auth, TypeScript, Render deployment, Postman collection  
 - 📊 **[Shopkeeper Dashboard](https://github.com/marioportelag/shopkeeper-dashboard)** – Express + Handlebars dashboard, MIT licensed  
+- 📚 **[Documentation](https://github.com/marioportelag/documentation)** – Central knowledge-base & engineering docs (design decisions, runbooks, API specs, playbooks, and ops checklists)
 
 ---
 
@@ -39,6 +40,7 @@
   <!-- Languages -->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -62,6 +64,14 @@
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
+<p align="center">
+  <!-- AI & Emerging Tech -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VAPI-FF6F00?style=for-the-badge&logo=voip&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Apps-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
+</p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -74,9 +84,10 @@
 ---
 
 ## 🌱 Currently Learning
-- Advanced **AI-powered applications**  
-- Optimizing microservices with **Inngest** & **AWS GameLift**  
-- Building scalable **analytics pipelines** in PostgreSQL  
+- 🐹 **Golang**: building RESTful APIs for **AWS GameLift servers**  
+- ⚡ **FastAPI**: developing APIs for **AI-powered projects**  
+- 🤖 Exploring **AI/ML tools**: OpenAI, Gemini, and voice agents with VAPI  
+- 🧩 Designing **AI-first applications** that combine APIs, automation, and user experience  
 
 ---
 
