@@ -111,7 +111,7 @@ Applied AI              Audio workflows · Structured extraction
 I'm interested in collaborating on **backend platforms, cloud architecture, distributed systems, and AI-enabled products**.
 
 - **GitHub:** [@marioportelag](https://github.com/marioportelag)
-- **Professional network:** Feel free to connect with me through GitHub while I add a verified LinkedIn link.
+- **Professional network:** [marioportelag](https://www.linkedin.com/in/marioportelag/)
 
 <div align="center">
   <sub>Build thoughtfully. Ship reliably. Keep improving.</sub>
