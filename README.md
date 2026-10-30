@@ -1,109 +1,118 @@
-<!-- Banner / Header -->
-<h1 align="center">👋 Hi, I'm Mario Portela</h1>
-<h3 align="center">Software Engineer | Backend Specialist | Tech Lead</h3>
+<div align="center">
+
+# Mario Portela
+
+### Senior Backend & Cloud Engineer
+
+**Designing reliable backend systems, scalable APIs, and cloud-native solutions.**
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS" />
+</p>
+
+[Explore my repositories](https://github.com/marioportelag?tab=repositories) · [Connect on GitHub](https://github.com/marioportelag)
+
+</div>
 
 ---
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/marioportelag/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.freelancer.com/u/marioportelag">
-    <img src="https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/marioportela.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+## About me
 
----
+I'm a software engineer with **8+ years of experience** building backend services and production applications. My work spans **Node.js / TypeScript, Java / Spring Boot, Python, and AWS**, with a focus on maintainability, performance, and pragmatic architecture.
 
-## 🚀 About Me
-- 💻 8+ years building scalable backends with **Node.js**, **TypeScript**, and **NestJS**
-- 🗄️ Experienced with **PostgreSQL**, **MongoDB**, and **AWS** (RDS, S3, GameLift, Lambda, EC2)
-- 👨‍💻 Skilled in **technical leadership**, **CI/CD pipelines**, and **Agile methodologies**
-- 🎯 Focused on **clean code**, **performance**, and **user-centric solutions**
+I've contributed to engineering teams delivering solutions for **media and streaming, workforce operations, and enterprise platforms**. I enjoy turning complex business workflows into dependable services, improving observability, and making systems easier to operate.
 
----
+- **Backend engineering:** REST and GraphQL APIs, authentication, service integration, asynchronous processing.
+- **Cloud & distributed systems:** AWS serverless workloads, event-driven workflows, reliability, and deployment automation.
+- **Data engineering:** PostgreSQL, Redis, DynamoDB, database performance, and data integration.
+- **Production quality:** OpenTelemetry, CloudWatch, testing, debugging, and incremental releases.
+- **Applied AI:** Integrating AI services into backend workflows, including audio processing and structured data extraction.
 
-## 🔥 Featured Projects
-- 🛡️ **[NodeJS App](https://github.com/marioportelag/nodejs-app)** – REST API with JWT auth, TypeScript, Render deployment, Postman collection  
-- 📊 **[Shopkeeper Dashboard](https://github.com/marioportelag/shopkeeper-dashboard)** – Express + Handlebars dashboard, MIT licensed  
-- 📚 **[Documentation](https://github.com/marioportelag/documentation)** – Central knowledge-base & engineering docs (design decisions, runbooks, API specs, playbooks, and ops checklists)
+> I care about software that works well in production—not just in a demo.
 
----
+## Engineering toolkit
 
-## 🛠️ Tech Stack
+| Area | Technologies & practices |
+| :--- | :--- |
+| **Languages** | TypeScript, JavaScript, Java, Python, SQL |
+| **Backend** | Node.js, Fastify, NestJS, Express, Spring Boot, FastAPI, REST, GraphQL |
+| **Cloud & infrastructure** | AWS Lambda, API Gateway, SQS, S3, DynamoDB, ECS, Docker, GitHub Actions |
+| **Data** | PostgreSQL, Redis, MongoDB, MySQL, Prisma, SQLAlchemy |
+| **Reliability & observability** | OpenTelemetry, AWS CloudWatch, logging, monitoring, CI/CD |
+| **Frontend collaboration** | React, Next.js |
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+## Selected engineering experience
 
-<p align="center">
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+My professional work has included:
 
-<p align="center">
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+**Cloud-native backend services**  
+Building and integrating APIs and services on AWS, with attention to asynchronous workflows, performance, and operational visibility.
 
-<p align="center">
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+**Streaming & media integrations**  
+Working on backend integrations and API layers for streaming-related platforms, using TypeScript, GraphQL, AWS, and observability tooling.
 
-<p align="center">
-  <!-- AI & Emerging Tech -->
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VAPI-FF6F00?style=for-the-badge&logo=voip&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Apps-8A2BE2?style=for-the-badge&logo=ai&logoColor=white"/>
-</p>
+**Enterprise workflow automation**  
+Developing integrations, scheduling and background jobs, data processing, and business-critical workflows across external systems.
 
----
+**AI-enabled services**  
+Using AI APIs to process audio and extract structured information and metrics as part of application workflows.
 
-## 📊 GitHub Stats
+*Most of my production work lives in private or company-owned repositories. The public projects below are independent examples of my work and learning.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marioportelag&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marioportelag&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
+## Public projects
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marioportelag/nodejs-app">Node.js API</a></h3>
+      <p>Backend API example built with Node.js and TypeScript, featuring JWT authentication and protected endpoints.</p>
+      <p><code>Node.js</code> <code>TypeScript</code> <code>JWT</code></p>
+      <a href="https://github.com/marioportelag/nodejs-app">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marioportelag/shopkeeper-dashboard">Shopkeeper Dashboard</a></h3>
+      <p>Dashboard application using Express, Handlebars, and PostgreSQL, demonstrating server-rendered application development.</p>
+      <p><code>Express</code> <code>Handlebars</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/marioportelag/shopkeeper-dashboard">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/marioportelag/documentation">Engineering Notes</a></h3>
+      <p>Technical documentation and notes on Node.js development practices.</p>
+      <p><code>Documentation</code> <code>Node.js</code></p>
+      <a href="https://github.com/marioportelag/documentation">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More on GitHub</h3>
+      <p>Explore additional repositories, experiments, and code examples on my profile.</p>
+      <p><code>Open source</code> <code>Experiments</code></p>
+      <a href="https://github.com/marioportelag?tab=repositories">Browse all repositories →</a>
+    </td>
+  </tr>
+</table>
 
-## 🌱 Currently Learning
-- 🐹 **Golang**: building RESTful APIs for **AWS GameLift servers**  
-- ⚡ **FastAPI**: developing APIs for **AI-powered projects**  
-- 🤖 Exploring **AI/ML tools**: OpenAI, Gemini, and voice agents with VAPI  
-- 🧩 Designing **AI-first applications** that combine APIs, automation, and user experience  
+## What I focus on
 
----
+```text
+Backend architecture     APIs · Integrations · Background jobs
+Cloud engineering       AWS · Serverless · Event-driven systems
+Data & performance      PostgreSQL · Redis · Efficient processing
+Production operations   Observability · Reliability · CI/CD
+Applied AI              Audio workflows · Structured extraction
+```
 
-## 🌍 Let's Connect
-<p align="center">
-  <a href="mailto:marioportelag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/marioportelag/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/marioportela.dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+## Connect
 
----
+I'm interested in collaborating on **backend platforms, cloud architecture, distributed systems, and AI-enabled products**.
 
-<p align="center">⭐️ Thanks for visiting my profile! Feel free to check my work and leave a star ⭐️</p>
+- **GitHub:** [@marioportelag](https://github.com/marioportelag)
+- **Professional network:** Feel free to connect with me through GitHub while I add a verified LinkedIn link.
+
+<div align="center">
+  <sub>Build thoughtfully. Ship reliably. Keep improving.</sub>
+</div>
